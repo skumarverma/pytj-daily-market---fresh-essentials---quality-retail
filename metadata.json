@@ -1,0 +1,6 @@
+{
+  "name": "PYTJ Daily Market - Fresh Essentials & Quality Retail",
+  "description": "Official business website of PYTJ Daily Market, Itanagar, Arunachal Pradesh. Explore our fresh produce, meat & fish, groceries, cosmetics, B2B wholesale, and contact the owners directly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
